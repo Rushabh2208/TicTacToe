@@ -3,7 +3,7 @@
 
 Name: Rushabh Bagadia
 
-Project Name: TicTacToe Game
+Project Name: TicTacToe Game (Python)
 
 Contact info: rushabh2208@gmail.com
 
